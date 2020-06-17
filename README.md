@@ -1,15 +1,27 @@
 
 ## Description
 
-Source code tutorial at medium.com
-
- 1. [Domain-driver design](https://github.com/fvdavid/medium/tree/ddd)
+	* Integration Tests & Spring Boot 2 with MockServer
 
 
-## Stay in touch
+## Installation
+	
+	```
+	
+	$ npm install
 
-- Author - David Tobing
+	```
 
-## License
 
-  Nest is [MIT licensed](LICENSE).
+## Running The App
+
+	```
+	#run app
+	$ mvn spring-boot:run
+
+
+	#test app
+	$ mvn verify
+
+	```
+
