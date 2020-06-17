@@ -1,14 +1,14 @@
 
 ## Description
 
-	* Integration Tests & Spring Boot 2 with MockServer
+	* Integration Tests & Spring Boot 3 with MockServer
 
 
 ## Installation
 	
 	```
 	
-	$ npm install
+	$ mvn package
 
 	```
 
